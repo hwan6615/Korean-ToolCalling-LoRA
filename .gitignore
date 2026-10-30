@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+data/
+outputs/
+tmux_log*.txt
+*.log
+.env
